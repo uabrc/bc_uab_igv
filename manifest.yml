@@ -1,11 +1,11 @@
 ---
-name: MATLAB
+name: IGV
 category: Interactive Apps
 subcategory: GUIs
 role: batch_connect
 description: |
-  This app will launch a [MATLAB] GUI on the [Owens cluster]. You will be able
-  to interact with the MATLAB GUI through a VNC session.
+  This app will launch a [Integrative Genomics Viewer(IGV)] on the [Cheaha]. You will be able
+  to interact with the IGV through a VNC session.
 
-  [MATLAB]: https://www.mathworks.com/products/matlab.html
-  [Owens cluster]: https://www.osc.edu/resources/technical_support/supercomputers/owens
+  [Integrative Genomics Viewer(IGV)]: https://software.broadinstitute.org/software/igv/
+  [Cheaha]: https://docs.uabgrid.uab.edu
